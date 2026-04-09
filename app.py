@@ -1201,15 +1201,15 @@ def screen_review():
             safe_q_rev = re.sub(r'\s([1-4]{1}\.\s)', r'<br/><br/><b>\1</b>', safe_q_rev)
 
         st.markdown(f"""
-        <div style="background:{bg}; border-left:5px solid {border}; padding:15px; border-radius:8px; margin-bottom:15px;">
-            <b>Q{i+1}: {safe_q_rev}</b><br/><br/>
-            {f'<img src="{img_src}" style="max-width:400px; border-radius:8px; margin-bottom:15px; border:1px solid #ddd;"><br/>' if img_src else ""}
-            <span style="color:grey;">Your Answer:</span> {u_ans.upper() if u_ans != 'Skipped' else 'Skipped'}<br/>
-            <span style="color:var(--success); font-weight:bold;">Correct Answer:</span> {c_ans.upper() if c_ans else 'N/A'}<br/>
-            <hr/>
-            <b>Explanation:</b> {q.get('explanation', 'No explanation provided.')}
-        </div>
-        """, unsafe_allow_html=True)
+<div style="background:{bg}; border-left:5px solid {border}; padding:15px; border-radius:8px; margin-bottom:15px;">
+    <b>Q{i+1}: {safe_q_rev}</b><br/><br/>
+    {f'<img src="{img_src}" style="max-width:400px; border-radius:8px; margin-bottom:15px; border:1px solid #ddd;"><br/>' if img_src else ""}
+    <span style="color:grey;">Your Answer:</span> {u_ans.upper() if u_ans != 'Skipped' else 'Skipped'}<br/>
+    <span style="color:var(--success); font-weight:bold;">Correct Answer:</span> {c_ans.upper() if c_ans else 'N/A'}<br/>
+    <hr/>
+    <b>Explanation:</b> {q.get('explanation', 'No explanation provided.')}
+</div>
+""", unsafe_allow_html=True)
 
 def screen_admin():
     st.title("Admin Dashboard - Question Bank Management")
