@@ -1,0 +1,455 @@
+{
+    "units": [
+        {
+            "unit": "Unit I",
+            "name": "Building Materials & Construction Practices",
+            "topics": [
+                {
+                    "name": "Engineering materials (Properties & Tests)",
+                    "subtopics": [
+                        "Brick",
+                        "Stones",
+                        "Aggregates & M-Sand",
+                        "Cement",
+                        "Admixtures",
+                        "Concrete (Self-compacting concrete)",
+                        "Mix Design",
+                        "Timber",
+                        "Recycled and modern materials - glass, plastic FRP, ceramic, steel"
+                    ]
+                },
+                {
+                    "name": "Construction Practices: Masonry",
+                    "subtopics": []
+                },
+                {
+                    "name": "Construction Equipments",
+                    "subtopics": []
+                },
+                {
+                    "name": "Building bye-laws",
+                    "subtopics": []
+                },
+                {
+                    "name": "Provisions for fire safety, lighting and ventilation",
+                    "subtopics": []
+                },
+                {
+                    "name": "Acoustics",
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "unit": "Unit II",
+            "name": "Engineering Survey",
+            "topics": [
+                {
+                    "name": "Basics of Surveying",
+                    "subtopics": []
+                },
+                {
+                    "name": "Chain Surveying",
+                    "subtopics": []
+                },
+                {
+                    "name": "Compass Surveying",
+                    "subtopics": []
+                },
+                {
+                    "name": "Plane Table Surveying",
+                    "subtopics": []
+                },
+                {
+                    "name": "Levelling",
+                    "subtopics": []
+                },
+                {
+                    "name": "Computation of area and volume: L.S. and C.S.",
+                    "subtopics": []
+                },
+                {
+                    "name": "Contouring",
+                    "subtopics": []
+                },
+                {
+                    "name": "Theodolite surveying",
+                    "subtopics": []
+                },
+                {
+                    "name": "Traversing",
+                    "subtopics": []
+                },
+                {
+                    "name": "Tacheometry",
+                    "subtopics": []
+                },
+                {
+                    "name": "Triangulation",
+                    "subtopics": []
+                },
+                {
+                    "name": "Modern Surveying Techniques",
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "unit": "Unit III",
+            "name": "Engineering Mechanics & Strength of Materials",
+            "topics": [
+                {
+                    "name": "Forces: Types & Laws",
+                    "subtopics": []
+                },
+                {
+                    "name": "CoG & MI",
+                    "subtopics": []
+                },
+                {
+                    "name": "Friction",
+                    "subtopics": []
+                },
+                {
+                    "name": "Stresses and Strains",
+                    "subtopics": []
+                },
+                {
+                    "name": "Beams: SFD & BMD",
+                    "subtopics": []
+                },
+                {
+                    "name": "Theory of simple bending",
+                    "subtopics": []
+                },
+                {
+                    "name": "Deflection of beams",
+                    "subtopics": []
+                },
+                {
+                    "name": "Torsion",
+                    "subtopics": []
+                },
+                {
+                    "name": "Combined stresses",
+                    "subtopics": []
+                },
+                {
+                    "name": "Stress Transformations & Failure Theories",
+                    "subtopics": []
+                },
+                {
+                    "name": "Analysis of plane trusses",
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "unit": "Unit IV",
+            "name": "Structural Analysis",
+            "topics": [
+                {
+                    "name": "Introduction to Analysis of Structures",
+                    "subtopics": []
+                },
+                {
+                    "name": "Force/Flexibility Methods of Analysis",
+                    "subtopics": []
+                },
+                {
+                    "name": "Displacement/Stiffness Methods of Analysis",
+                    "subtopics": []
+                },
+                {
+                    "name": "Arches",
+                    "subtopics": []
+                },
+                {
+                    "name": "Suspension cables",
+                    "subtopics": []
+                },
+                {
+                    "name": "Theory of columns",
+                    "subtopics": []
+                },
+                {
+                    "name": "Moving Loads and Influence Lines",
+                    "subtopics": []
+                },
+                {
+                    "name": "Matrix method",
+                    "subtopics": []
+                },
+                {
+                    "name": "Plastic theory",
+                    "subtopics": []
+                },
+                {
+                    "name": "Seismic analysis of high rise building",
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "unit": "Unit V",
+            "name": "Geotechnical Engineering",
+            "topics": [
+                {
+                    "name": "Formation & Types of soils",
+                    "subtopics": []
+                },
+                {
+                    "name": "Physical properties and testing of soils",
+                    "subtopics": []
+                },
+                {
+                    "name": "Classification of Soils for Engineering Practice",
+                    "subtopics": []
+                },
+                {
+                    "name": "Permeability of Soil",
+                    "subtopics": []
+                },
+                {
+                    "name": "Stress distribution in Soil",
+                    "subtopics": []
+                },
+                {
+                    "name": "Theory of Consolidation",
+                    "subtopics": []
+                },
+                {
+                    "name": "Shear strength of Soil",
+                    "subtopics": []
+                },
+                {
+                    "name": "Stability analysis of slope",
+                    "subtopics": []
+                },
+                {
+                    "name": "Shallow foundations",
+                    "subtopics": []
+                },
+                {
+                    "name": "Pile foundation",
+                    "subtopics": []
+                },
+                {
+                    "name": "Soil exploration & Sampling techniques",
+                    "subtopics": []
+                },
+                {
+                    "name": "Compaction of Soil",
+                    "subtopics": []
+                },
+                {
+                    "name": "Stabilization of soil",
+                    "subtopics": []
+                },
+                {
+                    "name": "Ground Improvement techniques",
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "unit": "Unit VI",
+            "name": "Environmental Engineering",
+            "topics": [
+                {
+                    "name": "Sources & Demand of water",
+                    "subtopics": []
+                },
+                {
+                    "name": "Hydraulics for conveyance and transmission",
+                    "subtopics": []
+                },
+                {
+                    "name": "Characteristics, analysis of water & water borne diseases",
+                    "subtopics": []
+                },
+                {
+                    "name": "Functional design of water treatment",
+                    "subtopics": []
+                },
+                {
+                    "name": "Desalination plant",
+                    "subtopics": []
+                },
+                {
+                    "name": "Water distribution system & Pipe network analysis",
+                    "subtopics": []
+                },
+                {
+                    "name": "Planning and design of sewerage system & storm water drain",
+                    "subtopics": []
+                },
+                {
+                    "name": "Sewer appurtenances - Pumping & plumbing system in high rise building",
+                    "subtopics": []
+                },
+                {
+                    "name": "Characteristics and composition of sewage",
+                    "subtopics": []
+                },
+                {
+                    "name": "Sewage treatment and disposal",
+                    "subtopics": []
+                },
+                {
+                    "name": "Industrial waste water treatment",
+                    "subtopics": []
+                },
+                {
+                    "name": "Solid waste management",
+                    "subtopics": []
+                },
+                {
+                    "name": "Air and Noise pollution control",
+                    "subtopics": []
+                },
+                {
+                    "name": "E-Waste management",
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "unit": "Unit VII",
+            "name": "RCC / Prestressed Concrete / Steel Structures",
+            "topics": [
+                {
+                    "name": "Design of Reinforced Concrete Structures",
+                    "subtopics": [
+                        "Working stress design concepts",
+                        "Limit state design concepts",
+                        "Design of Slabs (one way, Two way & Flat slabs)",
+                        "Design of Beam (singly, doubly reinforced & flanged sections)",
+                        "Design of Columns & Footings",
+                        "Staircase & Lintel",
+                        "Design of liquid storage structures (elevated and underground)",
+                        "Design of Retaining wall"
+                    ]
+                },
+                {
+                    "name": "Prestressed Concrete",
+                    "subtopics": [
+                        "Pre-stressing - systems and Methods",
+                        "Design of Pre-Stressed Members for Flexure & Post tensioning slabs"
+                    ]
+                },
+                {
+                    "name": "Steel Structures",
+                    "subtopics": [
+                        "Design of Bolted and Welded connections",
+                        "Design of Tension members",
+                        "Design of Columns and Bases",
+                        "Design of Beams",
+                        "Design of Plate girder and Gantry girders",
+                        "Design of Members of Truss"
+                    ]
+                }
+            ]
+        },
+        {
+            "unit": "Unit VIII",
+            "name": "Hydraulics & Water Resources",
+            "topics": [
+                {
+                    "name": "Fluid Mechanics and Hydraulics",
+                    "subtopics": [
+                        "Fluid Properties (Basics)",
+                        "Hydrostatic Pressure",
+                        "Kinematics of flow",
+                        "Fluid Dynamics (Applications of Bernoulli & Momentum equation)",
+                        "Flow through Pipes (Losses)",
+                        "Flow measurement in Channel",
+                        "Open Channel Flow",
+                        "Types of Pumps and Characteristics"
+                    ]
+                },
+                {
+                    "name": "Water Resources",
+                    "subtopics": [
+                        "Water resources Planning and Management",
+                        "Runoff Estimation",
+                        "Hydrograph",
+                        "Flood Routing",
+                        "Flood Control"
+                    ]
+                },
+                {
+                    "name": "Irrigation",
+                    "subtopics": [
+                        "Soil plant water relationship & Water requirements",
+                        "Irrigation Methods",
+                        "Design of Alluvial Canals",
+                        "Design of Head works",
+                        "Water logging and Land reclamation",
+                        "Cross Drainage works"
+                    ]
+                }
+            ]
+        },
+        {
+            "unit": "Unit IX",
+            "name": "Urban & Transportation Engineering",
+            "topics": [
+                {
+                    "name": "Highway Engineering",
+                    "subtopics": [
+                        "Geometric Design of Highways",
+                        "Pavement Materials and Testing",
+                        "Design, Construction & Maintenance of Roads"
+                    ]
+                },
+                {
+                    "name": "Railway Engineering",
+                    "subtopics": []
+                },
+                {
+                    "name": "Airport Engineering",
+                    "subtopics": []
+                },
+                {
+                    "name": "Harbour and Docks",
+                    "subtopics": []
+                },
+                {
+                    "name": "Urbanization and Slum",
+                    "subtopics": []
+                },
+                {
+                    "name": "Traffic Engineering",
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "unit": "Unit X",
+            "name": "Project Management & Estimation",
+            "topics": [
+                {
+                    "name": "Construction Management",
+                    "subtopics": []
+                },
+                {
+                    "name": "Project Management",
+                    "subtopics": []
+                },
+                {
+                    "name": "Estimation",
+                    "subtopics": []
+                },
+                {
+                    "name": "Tender",
+                    "subtopics": []
+                },
+                {
+                    "name": "Building Valuation",
+                    "subtopics": []
+                }
+            ]
+        }
+    ]
+}
